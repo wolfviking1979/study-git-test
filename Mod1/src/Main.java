@@ -4,7 +4,7 @@ public class Main {
         int y = 12;
 
         // y = x * y;
-        //y = x + y;
+        y = x + y;
 
         x = y - x;
         y = y - x;
